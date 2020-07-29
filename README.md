@@ -1,4 +1,9 @@
 ### Hi there 👋
+* name: Codd
+* email: hefengen@hotmail.com
+* hot repository: [springboot-demo](https://github.com/hirCodd/springboot-demo)
+* weblog: [Finen's Blog](https://www.finen.top/)
+* working on java!
 
 <!--
 **hirCodd/hirCodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
