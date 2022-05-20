@@ -1,7 +1,7 @@
 ### intro 👋
 - 😄 name: Codd
 - 📫 email: hefengen@hotmail.com
-- 🔭 I’m currently working on bsoft
+- 🔭 I’m currently working on dazd.cn
 - ⚡ hot repository: [springboot-demo](https://github.com/hirCodd/springboot-demo)
 - 🌱 weblog: [Moremind's Blog](https://www.finen.top/)
 
