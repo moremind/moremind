@@ -2,7 +2,7 @@
 - 😄 name: Codd
 - 📫 email: hefengen@apache.org
             hefengen@hotmail.com
-- 🔭 I’m currently located in Hangzhou, Chain.
+- 🔭 I’m currently located in Hangzhou, China
 - ⚡ hot repository: [springboot-demo](https://github.com/hirCodd/springboot-demo)
 - 🌱 weblog: [Moremind's Blog](https://www.finen.top/)
 
