@@ -1,7 +1,8 @@
 ### intro 👋
 - 😄 name: Codd
-- 📫 email: hefengen@apache.org
+- 📫 email: hefengen@apache.org 
             hefengen@hotmail.com
+- opensource role: Apache ShenYu PMC member
 - 🔭 I’m currently located in Hangzhou, China
 - ⚡ hot repository: [springboot-demo](https://github.com/hirCodd/springboot-demo)
 - 🌱 weblog: [Moremind's Blog](https://moremind.cn)
