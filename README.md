@@ -1,4 +1,7 @@
 ### intro 👋
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=moremind&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 😄 name: Codd
 - 📫 email: hefengen@apache.org 
             hefengen@hotmail.com
