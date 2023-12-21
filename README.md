@@ -34,8 +34,8 @@
 
 <div>
   <h1>Introduction</h1>
-  <p>Name: Moremind</p>
-  <p>Email: hefengen@apache.org</p>
+  <p>&emsp;&emsp;Name: Moremind</p>
+  <p>&emsp;&emsp;Email: hefengen@apache.org</p>
 </div>
 
 <div>
