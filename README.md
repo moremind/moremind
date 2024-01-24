@@ -15,21 +15,29 @@
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Language-Java-f6da1c?style=flat&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Language-Golang-2b6dbf?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Language-Java-f6da1c?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Language-Golang-2b6dbf?style=flat&logo=Golang&logoColor=white">
+  <img src="https://img.shields.io/badge/Language-C/C++-2b6dbf?style=flat&logo=c&logoColor=white">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-SpringFramework-3C873A?style=flat&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/-SpringBoot-3C873A?style=flat&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/-SpringCloud-3C873A?style=flat&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/-SpringData-3C873A?style=flat&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/-ApacheDubbo-2b6dbf?style=flat&logo=Apache&logoColor=white">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Kubernetes-218bea?style=flat&logo=Kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=white">
   <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
   <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/-Graphql-cf1322?style=flat&logo=graphql&logoColor=white">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
-  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
 <div>
@@ -49,4 +57,4 @@
 
 
 ### Github Status
-![](https://github-readme-stats.vercel.app/api?username=moremind&theme=gruvbox) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moremind&theme=dracula) ![]
+![](https://github-readme-stats.vercel.app/api?username=moremind&theme=gruvbox) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moremind&theme=dracula) 
