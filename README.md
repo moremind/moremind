@@ -41,6 +41,7 @@
 <div>
   <h1>OpenSource Activities</h1>
   <p>&emsp;&emsp;Apache ShenYu PMC member & Committer, Apache EventMesh Contributor</p>
+  <p>&emsp;&emsp;Apache Local Community Hangzhou Member</p>
   <p>&emsp;&emsp;Google Summer of Code 2023 Mentor</p>
   <p>&emsp;&emsp;OSPP 2023 Mentor</p>
   <p>&emsp;&emsp;开放原子基金会2023活力开源贡献者-技术贡献</p>
