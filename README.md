@@ -55,6 +55,9 @@
   <p>&emsp;&emsp;开放原子基金会2023活力开源贡献者-技术贡献</p>
 </div>
 
+### My Eth wallet
+
+0x6Ce5DEBfaF19f162DeE342852A968b93aBA8CED6
 
 ### Github Status
 ![](https://github-readme-stats.vercel.app/api?username=moremind&theme=gruvbox) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moremind&theme=dracula) 
